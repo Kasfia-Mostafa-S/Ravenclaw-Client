@@ -1,0 +1,143 @@
+[
+    {
+      "image": "https://i.ibb.co/S5mcZrp/dan-gold-4-HG3-Ca3-Ez-Ww-unsplash.jpg",
+      "floor_no": 5,
+      "block_name": "A Block",
+      "apartment_no": "101",
+      "rent": 15000
+    },
+    {
+      "image": "https://i.ibb.co/pwG9K5B/deborah-cortelazzi-g-REqu-CUXQLI-unsplash.jpg",
+      "floor_no": 3,
+      "block_name": "B Block",
+      "apartment_no": "202",
+      "rent": 18000
+    },
+    {
+      "image": "https://i.ibb.co/jr0sZPP/francesca-tosolini-l-IVK3z606og-unsplash.jpg",
+      "floor_no": 2,
+      "block_name": "C Block",
+      "apartment_no": "303",
+      "rent": 20000
+    },
+    {
+      "image": "https://i.ibb.co/F30sQjb/jens-behrmann-r-U-R1-Gx7-Rr-I-unsplash.jpg",
+      "floor_no": 4,
+      "block_name": "D Block",
+      "apartment_no": "404",
+      "rent": 17000
+    },
+    {
+      "image": "https://i.ibb.co/vkr18Vr/kenny-eliason-kdwahp-WYf-Qo-unsplash.jpg",
+      "floor_no": 6,
+      "block_name": "E Block",
+      "apartment_no": "505",
+      "rent": 16000
+    },
+    {
+      "image": "https://i.ibb.co/J7yhBV5/naomi-hebert-MP0bga-S-d1c-unsplash.jpg",
+      "floor_no": 7,
+      "block_name": "F Block",
+      "apartment_no": "606",
+      "rent": 19000
+    },
+    {
+      "image": "https://i.ibb.co/JdLYmZ5/outsite-co-R-LK3sq-Li-Bw-unsplash.jpg",
+      "floor_no": 8,
+      "block_name": "G Block",
+      "apartment_no": "707",
+      "rent": 22000
+    },
+    {
+      "image": "https://i.ibb.co/18wwvCz/rune-enstad-UXFJ-6-Zj27-M-unsplash.jpg",
+      "floor_no": 9,
+      "block_name": "H Block",
+      "apartment_no": "808",
+      "rent": 21000
+    },
+    {
+      "image": "https://i.ibb.co/THDVQ6C/spacejoy-9xo-QJ-3-HGs-unsplash.jpg",
+      "floor_no": 10,
+      "block_name": "I Block",
+      "apartment_no": "909",
+      "rent": 23000
+    },
+    {
+      "image": "https://i.ibb.co/BNkSxYn/spacejoy-KSfe2-Z4-REEM-unsplash.jpg",
+      "floor_no": 11,
+      "block_name": "J Block",
+      "apartment_no": "1010",
+      "rent": 24000
+    },
+    {
+      "image": "https://i.ibb.co/S5mcZrp/dan-gold-4-HG3-Ca3-Ez-Ww-unsplash.jpg",
+      "floor_no": 5,
+      "block_name": "A Block",
+      "apartment_no": "103",
+      "rent": 15000
+    },
+    {
+      "image": "https://i.ibb.co/pwG9K5B/deborah-cortelazzi-g-REqu-CUXQLI-unsplash.jpg",
+      "floor_no": 3,
+      "block_name": "B Block",
+      "apartment_no": "204",
+      "rent": 18000
+    },
+    {
+      "image": "https://i.ibb.co/jr0sZPP/francesca-tosolini-l-IVK3z606og-unsplash.jpg",
+      "floor_no": 2,
+      "block_name": "C Block",
+      "apartment_no": "305",
+      "rent": 20000
+    },
+    {
+      "image": "https://i.ibb.co/F30sQjb/jens-behrmann-r-U-R1-Gx7-Rr-I-unsplash.jpg",
+      "floor_no": 4,
+      "block_name": "D Block",
+      "apartment_no": "406",
+      "rent": 17000
+    },
+    {
+      "image": "https://i.ibb.co/vkr18Vr/kenny-eliason-kdwahp-WYf-Qo-unsplash.jpg",
+      "floor_no": 6,
+      "block_name": "E Block",
+      "apartment_no": "502",
+      "rent": 16000
+    },
+    {
+      "image": "https://i.ibb.co/J7yhBV5/naomi-hebert-MP0bga-S-d1c-unsplash.jpg",
+      "floor_no": 7,
+      "block_name": "F Block",
+      "apartment_no": "607",
+      "rent": 19000
+    },
+    {
+      "image": "https://i.ibb.co/JdLYmZ5/outsite-co-R-LK3sq-Li-Bw-unsplash.jpg",
+      "floor_no": 8,
+      "block_name": "G Block",
+      "apartment_no": "709",
+      "rent": 22000
+    },
+    {
+      "image": "https://i.ibb.co/18wwvCz/rune-enstad-UXFJ-6-Zj27-M-unsplash.jpg",
+      "floor_no": 9,
+      "block_name": "H Block",
+      "apartment_no": "803",
+      "rent": 21000
+    },
+    {
+      "image": "https://i.ibb.co/THDVQ6C/spacejoy-9xo-QJ-3-HGs-unsplash.jpg",
+      "floor_no": 10,
+      "block_name": "I Block",
+      "apartment_no": "906",
+      "rent": 23000
+    },
+    {
+      "image": "https://i.ibb.co/BNkSxYn/spacejoy-KSfe2-Z4-REEM-unsplash.jpg",
+      "floor_no": 11,
+      "block_name": "J Block",
+      "apartment_no": "1011",
+      "rent": 24000
+    }
+  ]
+  
